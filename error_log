@@ -1,0 +1,682 @@
+[01-Nov-2023 12:11:01 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[01-Nov-2023 12:11:37 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[01-Nov-2023 12:13:50 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[01-Nov-2023 12:13:55 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[01-Nov-2023 12:29:12 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[01-Nov-2023 12:30:18 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[01-Nov-2023 12:30:21 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[01-Nov-2023 12:31:31 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[01-Nov-2023 12:35:40 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[01-Nov-2023 12:40:21 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[01-Nov-2023 12:40:25 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[01-Nov-2023 12:41:12 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[01-Nov-2023 12:41:51 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[01-Nov-2023 12:41:57 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[01-Nov-2023 12:43:01 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[01-Nov-2023 12:43:06 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[01-Nov-2023 13:16:45 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[01-Nov-2023 13:16:49 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[01-Nov-2023 13:16:49 UTC] PHP Warning:  Undefined array key "sub" in /home/prodexth/public_html/nishant/deopdown_inventry.php on line 13
+[01-Nov-2023 13:16:49 UTC] PHP Warning:  Undefined array key "prod" in /home/prodexth/public_html/nishant/deopdown_inventry.php on line 20
+[01-Nov-2023 13:16:52 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[01-Nov-2023 13:16:52 UTC] PHP Warning:  Undefined array key "sub" in /home/prodexth/public_html/nishant/deopdown_inventry.php on line 13
+[01-Nov-2023 13:16:52 UTC] PHP Warning:  Undefined array key "prod" in /home/prodexth/public_html/nishant/deopdown_inventry.php on line 20
+[01-Nov-2023 13:18:13 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[01-Nov-2023 13:18:39 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[01-Nov-2023 13:18:39 UTC] PHP Warning:  Undefined array key "sub" in /home/prodexth/public_html/nishant/deopdown_inventry.php on line 13
+[01-Nov-2023 13:18:39 UTC] PHP Warning:  Undefined array key "prod" in /home/prodexth/public_html/nishant/deopdown_inventry.php on line 20
+[01-Nov-2023 13:18:40 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[01-Nov-2023 13:18:40 UTC] PHP Warning:  Undefined array key "id" in /home/prodexth/public_html/nishant/deopdown_inventry.php on line 5
+[01-Nov-2023 13:18:40 UTC] PHP Warning:  Undefined array key "prod" in /home/prodexth/public_html/nishant/deopdown_inventry.php on line 20
+[01-Nov-2023 13:18:42 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[01-Nov-2023 13:18:42 UTC] PHP Warning:  Undefined array key "id" in /home/prodexth/public_html/nishant/deopdown_inventry.php on line 5
+[01-Nov-2023 13:18:42 UTC] PHP Warning:  Undefined array key "sub" in /home/prodexth/public_html/nishant/deopdown_inventry.php on line 13
+[01-Nov-2023 13:18:42 UTC] PHP Warning:  Undefined variable $row in /home/prodexth/public_html/nishant/deopdown_inventry.php on line 25
+[01-Nov-2023 13:18:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/prodexth/public_html/nishant/deopdown_inventry.php on line 25
+[01-Nov-2023 13:18:42 UTC] PHP Warning:  Undefined variable $row in /home/prodexth/public_html/nishant/deopdown_inventry.php on line 25
+[01-Nov-2023 13:18:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/prodexth/public_html/nishant/deopdown_inventry.php on line 25
+[01-Nov-2023 13:18:42 UTC] PHP Warning:  Undefined variable $row in /home/prodexth/public_html/nishant/deopdown_inventry.php on line 25
+[01-Nov-2023 13:18:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/prodexth/public_html/nishant/deopdown_inventry.php on line 25
+[01-Nov-2023 13:18:42 UTC] PHP Warning:  Undefined variable $row in /home/prodexth/public_html/nishant/deopdown_inventry.php on line 25
+[01-Nov-2023 13:18:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/prodexth/public_html/nishant/deopdown_inventry.php on line 25
+[01-Nov-2023 13:18:58 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[01-Nov-2023 13:18:58 UTC] PHP Warning:  Undefined array key "sub" in /home/prodexth/public_html/nishant/deopdown_inventry.php on line 13
+[01-Nov-2023 13:18:58 UTC] PHP Warning:  Undefined array key "prod" in /home/prodexth/public_html/nishant/deopdown_inventry.php on line 20
+[01-Nov-2023 13:19:00 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[01-Nov-2023 13:19:00 UTC] PHP Warning:  Undefined array key "id" in /home/prodexth/public_html/nishant/deopdown_inventry.php on line 5
+[01-Nov-2023 13:19:00 UTC] PHP Warning:  Undefined array key "prod" in /home/prodexth/public_html/nishant/deopdown_inventry.php on line 20
+[01-Nov-2023 13:19:02 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[01-Nov-2023 13:19:02 UTC] PHP Warning:  Undefined array key "id" in /home/prodexth/public_html/nishant/deopdown_inventry.php on line 5
+[01-Nov-2023 13:19:02 UTC] PHP Warning:  Undefined array key "sub" in /home/prodexth/public_html/nishant/deopdown_inventry.php on line 13
+[01-Nov-2023 13:29:41 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[01-Nov-2023 13:29:46 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[01-Nov-2023 13:30:03 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[01-Nov-2023 13:30:03 UTC] PHP Warning:  Undefined array key "sub" in /home/prodexth/public_html/nishant/deopdown_inventry.php on line 13
+[01-Nov-2023 13:30:03 UTC] PHP Warning:  Undefined array key "prod" in /home/prodexth/public_html/nishant/deopdown_inventry.php on line 20
+[01-Nov-2023 13:30:03 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[01-Nov-2023 13:30:03 UTC] PHP Warning:  Undefined array key "id" in /home/prodexth/public_html/nishant/deopdown_inventry.php on line 5
+[01-Nov-2023 13:30:03 UTC] PHP Warning:  Undefined array key "prod" in /home/prodexth/public_html/nishant/deopdown_inventry.php on line 20
+[01-Nov-2023 13:30:05 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[01-Nov-2023 13:30:05 UTC] PHP Warning:  Undefined array key "id" in /home/prodexth/public_html/nishant/deopdown_inventry.php on line 5
+[01-Nov-2023 13:30:05 UTC] PHP Warning:  Undefined array key "sub" in /home/prodexth/public_html/nishant/deopdown_inventry.php on line 13
+[01-Nov-2023 13:30:05 UTC] PHP Warning:  Undefined variable $row in /home/prodexth/public_html/nishant/deopdown_inventry.php on line 25
+[01-Nov-2023 13:30:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/prodexth/public_html/nishant/deopdown_inventry.php on line 25
+[01-Nov-2023 13:30:05 UTC] PHP Warning:  Undefined variable $row in /home/prodexth/public_html/nishant/deopdown_inventry.php on line 25
+[01-Nov-2023 13:30:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/prodexth/public_html/nishant/deopdown_inventry.php on line 25
+[01-Nov-2023 13:30:05 UTC] PHP Warning:  Undefined variable $row in /home/prodexth/public_html/nishant/deopdown_inventry.php on line 25
+[01-Nov-2023 13:30:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/prodexth/public_html/nishant/deopdown_inventry.php on line 25
+[01-Nov-2023 13:30:05 UTC] PHP Warning:  Undefined variable $row in /home/prodexth/public_html/nishant/deopdown_inventry.php on line 25
+[01-Nov-2023 13:30:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/prodexth/public_html/nishant/deopdown_inventry.php on line 25
+[01-Nov-2023 13:30:45 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[01-Nov-2023 13:30:45 UTC] PHP Warning:  Undefined array key "sqft2" in /home/prodexth/public_html/nishant/purchase-form.php on line 76
+[01-Nov-2023 13:30:45 UTC] PHP Warning:  Undefined array key "sqmt2" in /home/prodexth/public_html/nishant/purchase-form.php on line 77
+[01-Nov-2023 13:30:47 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[01-Nov-2023 13:35:43 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[01-Nov-2023 13:35:56 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[01-Nov-2023 13:35:56 UTC] PHP Warning:  Undefined array key "sub" in /home/prodexth/public_html/nishant/deopdown_inventry.php on line 13
+[01-Nov-2023 13:35:56 UTC] PHP Warning:  Undefined array key "prod" in /home/prodexth/public_html/nishant/deopdown_inventry.php on line 20
+[01-Nov-2023 13:35:58 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[01-Nov-2023 13:35:58 UTC] PHP Warning:  Undefined array key "id" in /home/prodexth/public_html/nishant/deopdown_inventry.php on line 5
+[01-Nov-2023 13:35:58 UTC] PHP Warning:  Undefined array key "prod" in /home/prodexth/public_html/nishant/deopdown_inventry.php on line 20
+[01-Nov-2023 13:36:05 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[01-Nov-2023 13:36:23 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[01-Nov-2023 13:36:23 UTC] PHP Warning:  Undefined array key "sub" in /home/prodexth/public_html/nishant/deopdown_inventry.php on line 13
+[01-Nov-2023 13:36:23 UTC] PHP Warning:  Undefined array key "prod" in /home/prodexth/public_html/nishant/deopdown_inventry.php on line 20
+[01-Nov-2023 13:36:24 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[01-Nov-2023 13:36:24 UTC] PHP Warning:  Undefined array key "sub" in /home/prodexth/public_html/nishant/deopdown_inventry.php on line 13
+[01-Nov-2023 13:36:24 UTC] PHP Warning:  Undefined array key "prod" in /home/prodexth/public_html/nishant/deopdown_inventry.php on line 20
+[01-Nov-2023 13:36:25 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[01-Nov-2023 13:36:25 UTC] PHP Warning:  Undefined array key "id" in /home/prodexth/public_html/nishant/deopdown_inventry.php on line 5
+[01-Nov-2023 13:36:25 UTC] PHP Warning:  Undefined array key "prod" in /home/prodexth/public_html/nishant/deopdown_inventry.php on line 20
+[01-Nov-2023 13:36:26 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[01-Nov-2023 13:36:26 UTC] PHP Warning:  Undefined array key "id" in /home/prodexth/public_html/nishant/deopdown_inventry.php on line 5
+[01-Nov-2023 13:36:26 UTC] PHP Warning:  Undefined array key "prod" in /home/prodexth/public_html/nishant/deopdown_inventry.php on line 20
+[01-Nov-2023 13:36:28 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[01-Nov-2023 13:36:28 UTC] PHP Warning:  Undefined array key "id" in /home/prodexth/public_html/nishant/deopdown_inventry.php on line 5
+[01-Nov-2023 13:36:28 UTC] PHP Warning:  Undefined array key "sub" in /home/prodexth/public_html/nishant/deopdown_inventry.php on line 13
+[01-Nov-2023 13:36:28 UTC] PHP Warning:  Undefined variable $row in /home/prodexth/public_html/nishant/deopdown_inventry.php on line 25
+[01-Nov-2023 13:36:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/prodexth/public_html/nishant/deopdown_inventry.php on line 25
+[01-Nov-2023 13:36:28 UTC] PHP Warning:  Undefined variable $row in /home/prodexth/public_html/nishant/deopdown_inventry.php on line 25
+[01-Nov-2023 13:36:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/prodexth/public_html/nishant/deopdown_inventry.php on line 25
+[01-Nov-2023 13:36:28 UTC] PHP Warning:  Undefined variable $row in /home/prodexth/public_html/nishant/deopdown_inventry.php on line 25
+[01-Nov-2023 13:36:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/prodexth/public_html/nishant/deopdown_inventry.php on line 25
+[01-Nov-2023 13:36:28 UTC] PHP Warning:  Undefined variable $row in /home/prodexth/public_html/nishant/deopdown_inventry.php on line 25
+[01-Nov-2023 13:36:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/prodexth/public_html/nishant/deopdown_inventry.php on line 25
+[01-Nov-2023 13:36:29 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[01-Nov-2023 13:36:29 UTC] PHP Warning:  Undefined array key "id" in /home/prodexth/public_html/nishant/deopdown_inventry.php on line 5
+[01-Nov-2023 13:36:29 UTC] PHP Warning:  Undefined array key "sub" in /home/prodexth/public_html/nishant/deopdown_inventry.php on line 13
+[01-Nov-2023 13:37:12 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[01-Nov-2023 13:37:12 UTC] PHP Warning:  Undefined array key "sqft2" in /home/prodexth/public_html/nishant/purchase-form.php on line 76
+[01-Nov-2023 13:37:12 UTC] PHP Warning:  Undefined array key "sqmt2" in /home/prodexth/public_html/nishant/purchase-form.php on line 77
+[01-Nov-2023 13:37:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/prodexth/public_html/nishant/purchase-form.php on line 97
+[01-Nov-2023 13:37:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/prodexth/public_html/nishant/purchase-form.php on line 98
+[01-Nov-2023 13:37:14 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[02-Nov-2023 04:41:47 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[02-Nov-2023 04:41:47 UTC] PHP Warning:  Undefined array key "admin_name" in /home/prodexth/public_html/nishant/include/nav.php on line 157
+[02-Nov-2023 04:41:48 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[02-Nov-2023 04:41:48 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[02-Nov-2023 04:41:48 UTC] PHP Warning:  Undefined array key "admin_name" in /home/prodexth/public_html/nishant/include/nav.php on line 157
+[02-Nov-2023 04:41:49 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[02-Nov-2023 07:06:39 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[02-Nov-2023 07:06:39 UTC] PHP Warning:  Undefined array key "admin_name" in /home/prodexth/public_html/nishant/include/nav.php on line 157
+[02-Nov-2023 07:06:39 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[04-Nov-2023 07:27:03 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[04-Nov-2023 07:27:06 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[04-Nov-2023 07:27:15 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[04-Nov-2023 07:27:16 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[04-Nov-2023 07:27:28 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[04-Nov-2023 07:27:54 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[04-Nov-2023 07:28:22 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[04-Nov-2023 07:28:29 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[04-Nov-2023 07:28:55 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[04-Nov-2023 07:28:55 UTC] PHP Warning:  Undefined array key "sub" in /home/prodexth/public_html/nishant/deopdown_inventry.php on line 13
+[04-Nov-2023 07:28:55 UTC] PHP Warning:  Undefined array key "prod" in /home/prodexth/public_html/nishant/deopdown_inventry.php on line 20
+[04-Nov-2023 07:28:59 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[04-Nov-2023 07:28:59 UTC] PHP Warning:  Undefined array key "id" in /home/prodexth/public_html/nishant/deopdown_inventry.php on line 5
+[04-Nov-2023 07:28:59 UTC] PHP Warning:  Undefined array key "prod" in /home/prodexth/public_html/nishant/deopdown_inventry.php on line 20
+[04-Nov-2023 07:29:01 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[04-Nov-2023 07:29:01 UTC] PHP Warning:  Undefined array key "id" in /home/prodexth/public_html/nishant/deopdown_inventry.php on line 5
+[04-Nov-2023 07:29:01 UTC] PHP Warning:  Undefined array key "sub" in /home/prodexth/public_html/nishant/deopdown_inventry.php on line 13
+[04-Nov-2023 07:29:01 UTC] PHP Warning:  Undefined variable $row in /home/prodexth/public_html/nishant/deopdown_inventry.php on line 25
+[04-Nov-2023 07:29:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/prodexth/public_html/nishant/deopdown_inventry.php on line 25
+[04-Nov-2023 07:29:01 UTC] PHP Warning:  Undefined variable $row in /home/prodexth/public_html/nishant/deopdown_inventry.php on line 25
+[04-Nov-2023 07:29:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/prodexth/public_html/nishant/deopdown_inventry.php on line 25
+[04-Nov-2023 07:29:01 UTC] PHP Warning:  Undefined variable $row in /home/prodexth/public_html/nishant/deopdown_inventry.php on line 25
+[04-Nov-2023 07:29:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/prodexth/public_html/nishant/deopdown_inventry.php on line 25
+[04-Nov-2023 07:29:01 UTC] PHP Warning:  Undefined variable $row in /home/prodexth/public_html/nishant/deopdown_inventry.php on line 25
+[04-Nov-2023 07:29:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/prodexth/public_html/nishant/deopdown_inventry.php on line 25
+[04-Nov-2023 07:29:55 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[04-Nov-2023 07:30:00 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[04-Nov-2023 07:30:03 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[04-Nov-2023 07:30:14 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[04-Nov-2023 07:30:32 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[04-Nov-2023 07:30:35 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[04-Nov-2023 07:30:35 UTC] PHP Warning:  Undefined array key "admin_name" in /home/prodexth/public_html/nishant/include/nav.php on line 157
+[04-Nov-2023 07:30:56 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[04-Nov-2023 07:31:17 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[04-Nov-2023 07:32:38 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[04-Nov-2023 07:55:41 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[04-Nov-2023 07:55:53 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[04-Nov-2023 07:55:53 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[07-Nov-2023 05:55:14 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[08-Nov-2023 09:41:51 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[08-Nov-2023 09:41:56 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[08-Nov-2023 09:41:57 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[08-Nov-2023 09:42:07 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[08-Nov-2023 09:42:12 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[08-Nov-2023 09:42:17 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[08-Nov-2023 12:24:03 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[08-Nov-2023 12:24:03 UTC] PHP Warning:  Undefined array key "admin_name" in /home/prodexth/public_html/nishant/include/nav.php on line 157
+[08-Nov-2023 12:24:16 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[08-Nov-2023 12:24:16 UTC] PHP Warning:  Undefined array key "admin_name" in /home/prodexth/public_html/nishant/include/nav.php on line 157
+[08-Nov-2023 12:24:24 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[08-Nov-2023 12:24:24 UTC] PHP Warning:  Undefined array key "admin_name" in /home/prodexth/public_html/nishant/include/nav.php on line 157
+[08-Nov-2023 12:25:49 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[08-Nov-2023 12:25:49 UTC] PHP Warning:  Undefined array key "admin_name" in /home/prodexth/public_html/nishant/include/nav.php on line 157
+[08-Nov-2023 12:26:56 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[08-Nov-2023 12:26:56 UTC] PHP Warning:  Undefined array key "admin_name" in /home/prodexth/public_html/nishant/include/nav.php on line 157
+[08-Nov-2023 12:33:47 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[08-Nov-2023 12:33:47 UTC] PHP Warning:  Undefined array key "admin_name" in /home/prodexth/public_html/nishant/include/nav.php on line 157
+[08-Nov-2023 12:33:55 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[08-Nov-2023 12:33:55 UTC] PHP Warning:  Undefined array key "admin_name" in /home/prodexth/public_html/nishant/include/nav.php on line 157
+[08-Nov-2023 12:33:57 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[08-Nov-2023 12:33:57 UTC] PHP Warning:  Undefined array key "admin_name" in /home/prodexth/public_html/nishant/include/nav.php on line 157
+[08-Nov-2023 12:34:18 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[08-Nov-2023 12:34:18 UTC] PHP Warning:  Undefined array key "admin_name" in /home/prodexth/public_html/nishant/include/nav.php on line 157
+[08-Nov-2023 12:34:18 UTC] PHP Warning:  Undefined variable $row1 in /home/prodexth/public_html/nishant/add-client.php on line 153
+[08-Nov-2023 12:34:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/prodexth/public_html/nishant/add-client.php on line 153
+[08-Nov-2023 12:34:18 UTC] PHP Warning:  Undefined variable $row1 in /home/prodexth/public_html/nishant/add-client.php on line 154
+[08-Nov-2023 12:34:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/prodexth/public_html/nishant/add-client.php on line 154
+[08-Nov-2023 12:34:18 UTC] PHP Warning:  Undefined variable $row1 in /home/prodexth/public_html/nishant/add-client.php on line 160
+[08-Nov-2023 12:34:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/prodexth/public_html/nishant/add-client.php on line 160
+[08-Nov-2023 12:34:18 UTC] PHP Warning:  Undefined variable $row1 in /home/prodexth/public_html/nishant/add-client.php on line 167
+[08-Nov-2023 12:34:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/prodexth/public_html/nishant/add-client.php on line 167
+[08-Nov-2023 12:34:18 UTC] PHP Warning:  Undefined variable $row1 in /home/prodexth/public_html/nishant/add-client.php on line 172
+[08-Nov-2023 12:34:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/prodexth/public_html/nishant/add-client.php on line 172
+[08-Nov-2023 12:34:18 UTC] PHP Warning:  Undefined variable $row1 in /home/prodexth/public_html/nishant/add-client.php on line 176
+[08-Nov-2023 12:34:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/prodexth/public_html/nishant/add-client.php on line 176
+[08-Nov-2023 12:34:18 UTC] PHP Warning:  Undefined variable $row1 in /home/prodexth/public_html/nishant/add-client.php on line 181
+[08-Nov-2023 12:34:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/prodexth/public_html/nishant/add-client.php on line 181
+[08-Nov-2023 12:35:13 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[08-Nov-2023 12:35:13 UTC] PHP Warning:  Undefined array key "admin_name" in /home/prodexth/public_html/nishant/include/nav.php on line 157
+[08-Nov-2023 12:35:13 UTC] PHP Warning:  Undefined variable $row1 in /home/prodexth/public_html/nishant/add-client.php on line 153
+[08-Nov-2023 12:35:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/prodexth/public_html/nishant/add-client.php on line 153
+[08-Nov-2023 12:35:13 UTC] PHP Warning:  Undefined variable $row1 in /home/prodexth/public_html/nishant/add-client.php on line 154
+[08-Nov-2023 12:35:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/prodexth/public_html/nishant/add-client.php on line 154
+[08-Nov-2023 12:35:13 UTC] PHP Warning:  Undefined variable $row1 in /home/prodexth/public_html/nishant/add-client.php on line 160
+[08-Nov-2023 12:35:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/prodexth/public_html/nishant/add-client.php on line 160
+[08-Nov-2023 12:35:13 UTC] PHP Warning:  Undefined variable $row1 in /home/prodexth/public_html/nishant/add-client.php on line 167
+[08-Nov-2023 12:35:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/prodexth/public_html/nishant/add-client.php on line 167
+[08-Nov-2023 12:35:13 UTC] PHP Warning:  Undefined variable $row1 in /home/prodexth/public_html/nishant/add-client.php on line 172
+[08-Nov-2023 12:35:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/prodexth/public_html/nishant/add-client.php on line 172
+[08-Nov-2023 12:35:13 UTC] PHP Warning:  Undefined variable $row1 in /home/prodexth/public_html/nishant/add-client.php on line 176
+[08-Nov-2023 12:35:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/prodexth/public_html/nishant/add-client.php on line 176
+[08-Nov-2023 12:35:13 UTC] PHP Warning:  Undefined variable $row1 in /home/prodexth/public_html/nishant/add-client.php on line 181
+[08-Nov-2023 12:35:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/prodexth/public_html/nishant/add-client.php on line 181
+[08-Nov-2023 12:35:19 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[08-Nov-2023 12:35:19 UTC] PHP Warning:  Undefined array key "admin_name" in /home/prodexth/public_html/nishant/include/nav.php on line 157
+[08-Nov-2023 12:35:26 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[08-Nov-2023 12:35:26 UTC] PHP Warning:  Undefined array key "admin_name" in /home/prodexth/public_html/nishant/include/nav.php on line 157
+[08-Nov-2023 12:35:26 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'prodexth_nishant.pm_projects' doesn't exist in /home/prodexth/public_html/nishant/account.php:93
+Stack trace:
+#0 /home/prodexth/public_html/nishant/account.php(93): mysqli->query()
+#1 {main}
+  thrown in /home/prodexth/public_html/nishant/account.php on line 93
+[08-Nov-2023 12:36:15 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[08-Nov-2023 12:36:15 UTC] PHP Warning:  Undefined array key "admin_name" in /home/prodexth/public_html/nishant/include/nav.php on line 157
+[08-Nov-2023 12:36:15 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'prodexth_nishant.pm_projects' doesn't exist in /home/prodexth/public_html/nishant/account.php:93
+Stack trace:
+#0 /home/prodexth/public_html/nishant/account.php(93): mysqli->query()
+#1 {main}
+  thrown in /home/prodexth/public_html/nishant/account.php on line 93
+[08-Nov-2023 12:36:17 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[08-Nov-2023 12:36:17 UTC] PHP Warning:  Undefined array key "admin_name" in /home/prodexth/public_html/nishant/include/nav.php on line 157
+[08-Nov-2023 12:36:17 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'prodexth_nishant.pm_projects' doesn't exist in /home/prodexth/public_html/nishant/account.php:93
+Stack trace:
+#0 /home/prodexth/public_html/nishant/account.php(93): mysqli->query()
+#1 {main}
+  thrown in /home/prodexth/public_html/nishant/account.php on line 93
+[08-Nov-2023 12:36:20 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[08-Nov-2023 12:36:20 UTC] PHP Warning:  Undefined array key "admin_name" in /home/prodexth/public_html/nishant/include/nav.php on line 157
+[08-Nov-2023 12:36:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'prodexth_nishant.pm_projects' doesn't exist in /home/prodexth/public_html/nishant/account.php:93
+Stack trace:
+#0 /home/prodexth/public_html/nishant/account.php(93): mysqli->query()
+#1 {main}
+  thrown in /home/prodexth/public_html/nishant/account.php on line 93
+[08-Nov-2023 12:37:29 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[08-Nov-2023 12:37:29 UTC] PHP Warning:  Undefined array key "admin_name" in /home/prodexth/public_html/nishant/include/nav.php on line 157
+[08-Nov-2023 12:37:29 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'prodexth_nishant.employes' doesn't exist in /home/prodexth/public_html/nishant/account.php:163
+Stack trace:
+#0 /home/prodexth/public_html/nishant/account.php(163): mysqli->query()
+#1 {main}
+  thrown in /home/prodexth/public_html/nishant/account.php on line 163
+[08-Nov-2023 12:38:39 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[08-Nov-2023 12:38:39 UTC] PHP Warning:  Undefined array key "admin_name" in /home/prodexth/public_html/nishant/include/nav.php on line 157
+[08-Nov-2023 12:38:39 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'prodexth_nishant.employes' doesn't exist in /home/prodexth/public_html/nishant/account.php:147
+Stack trace:
+#0 /home/prodexth/public_html/nishant/account.php(147): mysqli->query()
+#1 {main}
+  thrown in /home/prodexth/public_html/nishant/account.php on line 147
+[08-Nov-2023 12:38:58 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[08-Nov-2023 12:38:58 UTC] PHP Warning:  Undefined array key "admin_name" in /home/prodexth/public_html/nishant/include/nav.php on line 157
+[08-Nov-2023 12:38:58 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'prodexth_nishant.employes' doesn't exist in /home/prodexth/public_html/nishant/account.php:147
+Stack trace:
+#0 /home/prodexth/public_html/nishant/account.php(147): mysqli->query()
+#1 {main}
+  thrown in /home/prodexth/public_html/nishant/account.php on line 147
+[08-Nov-2023 12:39:43 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[08-Nov-2023 12:39:43 UTC] PHP Warning:  Undefined array key "admin_name" in /home/prodexth/public_html/nishant/include/nav.php on line 157
+[08-Nov-2023 12:39:43 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'prodexth_nishant.employes' doesn't exist in /home/prodexth/public_html/nishant/account.php:133
+Stack trace:
+#0 /home/prodexth/public_html/nishant/account.php(133): mysqli->query()
+#1 {main}
+  thrown in /home/prodexth/public_html/nishant/account.php on line 133
+[08-Nov-2023 12:39:44 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[08-Nov-2023 12:39:44 UTC] PHP Warning:  Undefined array key "admin_name" in /home/prodexth/public_html/nishant/include/nav.php on line 157
+[08-Nov-2023 12:39:44 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'prodexth_nishant.employes' doesn't exist in /home/prodexth/public_html/nishant/account.php:133
+Stack trace:
+#0 /home/prodexth/public_html/nishant/account.php(133): mysqli->query()
+#1 {main}
+  thrown in /home/prodexth/public_html/nishant/account.php on line 133
+[08-Nov-2023 12:40:11 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[08-Nov-2023 12:40:11 UTC] PHP Warning:  Undefined array key "admin_name" in /home/prodexth/public_html/nishant/include/nav.php on line 157
+[08-Nov-2023 12:40:11 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'prodexth_nishant.employes' doesn't exist in /home/prodexth/public_html/nishant/account.php:133
+Stack trace:
+#0 /home/prodexth/public_html/nishant/account.php(133): mysqli->query()
+#1 {main}
+  thrown in /home/prodexth/public_html/nishant/account.php on line 133
+[08-Nov-2023 12:41:34 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[08-Nov-2023 12:41:34 UTC] PHP Warning:  Undefined array key "admin_name" in /home/prodexth/public_html/nishant/include/nav.php on line 157
+[08-Nov-2023 12:41:39 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[08-Nov-2023 12:41:49 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[08-Nov-2023 12:41:49 UTC] PHP Warning:  Undefined array key "admin_name" in /home/prodexth/public_html/nishant/include/nav.php on line 157
+[08-Nov-2023 12:41:56 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[08-Nov-2023 12:41:56 UTC] PHP Warning:  Undefined array key "admin_name" in /home/prodexth/public_html/nishant/include/nav.php on line 157
+[08-Nov-2023 12:45:18 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[08-Nov-2023 12:45:18 UTC] PHP Warning:  Undefined array key "admin_name" in /home/prodexth/public_html/nishant/include/nav.php on line 157
+[08-Nov-2023 12:45:23 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[08-Nov-2023 12:45:23 UTC] PHP Warning:  Undefined array key "admin_name" in /home/prodexth/public_html/nishant/include/nav.php on line 157
+[08-Nov-2023 12:45:26 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[08-Nov-2023 12:45:26 UTC] PHP Warning:  Undefined array key "admin_name" in /home/prodexth/public_html/nishant/include/nav.php on line 157
+[08-Nov-2023 12:46:22 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[08-Nov-2023 12:46:22 UTC] PHP Warning:  Undefined array key "attandance" in /home/prodexth/public_html/nishant/payment-report2.php on line 3
+[08-Nov-2023 12:46:22 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'prodexth_nishant.employes' doesn't exist in /home/prodexth/public_html/nishant/payment-report2.php:6
+Stack trace:
+#0 /home/prodexth/public_html/nishant/payment-report2.php(6): mysqli->query()
+#1 {main}
+  thrown in /home/prodexth/public_html/nishant/payment-report2.php on line 6
+[08-Nov-2023 12:46:25 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[08-Nov-2023 12:46:25 UTC] PHP Warning:  Undefined array key "attandance" in /home/prodexth/public_html/nishant/payment-report2.php on line 3
+[08-Nov-2023 12:46:25 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'prodexth_nishant.employes' doesn't exist in /home/prodexth/public_html/nishant/payment-report2.php:6
+Stack trace:
+#0 /home/prodexth/public_html/nishant/payment-report2.php(6): mysqli->query()
+#1 {main}
+  thrown in /home/prodexth/public_html/nishant/payment-report2.php on line 6
+[08-Nov-2023 12:46:26 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[08-Nov-2023 12:46:26 UTC] PHP Warning:  Undefined array key "admin_name" in /home/prodexth/public_html/nishant/include/nav.php on line 157
+[08-Nov-2023 12:46:31 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[08-Nov-2023 12:46:31 UTC] PHP Warning:  Undefined array key "admin_name" in /home/prodexth/public_html/nishant/include/nav.php on line 157
+[08-Nov-2023 12:46:34 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[08-Nov-2023 12:46:34 UTC] PHP Warning:  Undefined array key "attandance" in /home/prodexth/public_html/nishant/payment-report2.php on line 3
+[08-Nov-2023 12:46:34 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'prodexth_nishant.employes' doesn't exist in /home/prodexth/public_html/nishant/payment-report2.php:6
+Stack trace:
+#0 /home/prodexth/public_html/nishant/payment-report2.php(6): mysqli->query()
+#1 {main}
+  thrown in /home/prodexth/public_html/nishant/payment-report2.php on line 6
+[08-Nov-2023 12:46:37 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[08-Nov-2023 12:46:37 UTC] PHP Warning:  Undefined array key "admin_name" in /home/prodexth/public_html/nishant/include/nav.php on line 157
+[08-Nov-2023 12:46:56 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[08-Nov-2023 12:46:56 UTC] PHP Warning:  Undefined array key "admin_name" in /home/prodexth/public_html/nishant/include/nav.php on line 157
+[08-Nov-2023 12:46:56 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'prodexth_nishant.pm_projects' doesn't exist in /home/prodexth/public_html/nishant/report-graph-ac.php:88
+Stack trace:
+#0 /home/prodexth/public_html/nishant/report-graph-ac.php(88): mysqli->query()
+#1 {main}
+  thrown in /home/prodexth/public_html/nishant/report-graph-ac.php on line 88
+[08-Nov-2023 12:47:12 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[08-Nov-2023 12:47:12 UTC] PHP Warning:  Undefined array key "admin_name" in /home/prodexth/public_html/nishant/include/nav.php on line 157
+[08-Nov-2023 12:47:12 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'prodexth_nishant.pm_projects' doesn't exist in /home/prodexth/public_html/nishant/report-graph-ac.php:88
+Stack trace:
+#0 /home/prodexth/public_html/nishant/report-graph-ac.php(88): mysqli->query()
+#1 {main}
+  thrown in /home/prodexth/public_html/nishant/report-graph-ac.php on line 88
+[08-Nov-2023 12:50:37 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[08-Nov-2023 12:50:37 UTC] PHP Warning:  Undefined array key "admin_name" in /home/prodexth/public_html/nishant/include/nav.php on line 157
+[08-Nov-2023 12:50:37 UTC] PHP Warning:  Undefined array key "project_id" in /home/prodexth/public_html/nishant/report-graph-ac.php on line 92
+[08-Nov-2023 12:50:37 UTC] PHP Warning:  Undefined array key "project_id" in /home/prodexth/public_html/nishant/report-graph-ac.php on line 92
+[08-Nov-2023 12:50:37 UTC] PHP Warning:  Undefined array key "project_id" in /home/prodexth/public_html/nishant/report-graph-ac.php on line 92
+[08-Nov-2023 12:50:37 UTC] PHP Warning:  Undefined array key "project_id" in /home/prodexth/public_html/nishant/report-graph-ac.php on line 92
+[08-Nov-2023 12:50:37 UTC] PHP Warning:  Undefined array key "project_id" in /home/prodexth/public_html/nishant/report-graph-ac.php on line 92
+[08-Nov-2023 12:50:37 UTC] PHP Warning:  Undefined array key "project_id" in /home/prodexth/public_html/nishant/report-graph-ac.php on line 92
+[08-Nov-2023 12:50:37 UTC] PHP Warning:  Undefined array key "project_id" in /home/prodexth/public_html/nishant/report-graph-ac.php on line 92
+[08-Nov-2023 12:50:37 UTC] PHP Warning:  Undefined array key "project_id" in /home/prodexth/public_html/nishant/report-graph-ac.php on line 92
+[08-Nov-2023 12:50:37 UTC] PHP Warning:  Undefined array key "project_id" in /home/prodexth/public_html/nishant/report-graph-ac.php on line 92
+[08-Nov-2023 12:50:37 UTC] PHP Warning:  Undefined array key "project_id" in /home/prodexth/public_html/nishant/report-graph-ac.php on line 92
+[08-Nov-2023 12:50:37 UTC] PHP Warning:  Undefined array key "project_id" in /home/prodexth/public_html/nishant/report-graph-ac.php on line 92
+[08-Nov-2023 12:50:37 UTC] PHP Warning:  Undefined array key "project_id" in /home/prodexth/public_html/nishant/report-graph-ac.php on line 92
+[08-Nov-2023 12:50:37 UTC] PHP Warning:  Undefined array key "project_id" in /home/prodexth/public_html/nishant/report-graph-ac.php on line 92
+[08-Nov-2023 12:50:37 UTC] PHP Warning:  Undefined array key "project_id" in /home/prodexth/public_html/nishant/report-graph-ac.php on line 92
+[08-Nov-2023 12:50:37 UTC] PHP Warning:  Undefined array key "project_id" in /home/prodexth/public_html/nishant/report-graph-ac.php on line 92
+[08-Nov-2023 12:50:37 UTC] PHP Warning:  Undefined array key "project_id" in /home/prodexth/public_html/nishant/report-graph-ac.php on line 92
+[08-Nov-2023 12:50:37 UTC] PHP Warning:  Undefined array key "project_id" in /home/prodexth/public_html/nishant/report-graph-ac.php on line 92
+[08-Nov-2023 12:50:37 UTC] PHP Warning:  Undefined array key "project_id" in /home/prodexth/public_html/nishant/report-graph-ac.php on line 92
+[08-Nov-2023 12:50:37 UTC] PHP Warning:  Undefined array key "project_id" in /home/prodexth/public_html/nishant/report-graph-ac.php on line 92
+[08-Nov-2023 12:50:37 UTC] PHP Warning:  Undefined array key "s_date" in /home/prodexth/public_html/nishant/report-graph-ac.php on line 101
+[08-Nov-2023 12:50:37 UTC] PHP Warning:  Undefined array key "end_date" in /home/prodexth/public_html/nishant/report-graph-ac.php on line 107
+[08-Nov-2023 12:50:47 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[08-Nov-2023 12:50:47 UTC] PHP Warning:  Undefined array key "admin_name" in /home/prodexth/public_html/nishant/include/nav.php on line 157
+[08-Nov-2023 12:50:47 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'ac_head' in 'where clause' in /home/prodexth/public_html/nishant/report-graph-ac.php:152
+Stack trace:
+#0 /home/prodexth/public_html/nishant/report-graph-ac.php(152): mysqli->query()
+#1 {main}
+  thrown in /home/prodexth/public_html/nishant/report-graph-ac.php on line 152
+[08-Nov-2023 12:51:47 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[08-Nov-2023 12:51:47 UTC] PHP Warning:  Undefined array key "admin_name" in /home/prodexth/public_html/nishant/include/nav.php on line 157
+[08-Nov-2023 12:51:47 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'ac_head' in 'where clause' in /home/prodexth/public_html/nishant/report-graph-ac.php:152
+Stack trace:
+#0 /home/prodexth/public_html/nishant/report-graph-ac.php(152): mysqli->query()
+#1 {main}
+  thrown in /home/prodexth/public_html/nishant/report-graph-ac.php on line 152
+[08-Nov-2023 12:51:54 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[08-Nov-2023 12:51:54 UTC] PHP Warning:  Undefined array key "admin_name" in /home/prodexth/public_html/nishant/include/nav.php on line 157
+[08-Nov-2023 12:51:54 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'ac_head' in 'where clause' in /home/prodexth/public_html/nishant/report-graph-ac.php:152
+Stack trace:
+#0 /home/prodexth/public_html/nishant/report-graph-ac.php(152): mysqli->query()
+#1 {main}
+  thrown in /home/prodexth/public_html/nishant/report-graph-ac.php on line 152
+[08-Nov-2023 12:51:55 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[08-Nov-2023 12:51:55 UTC] PHP Warning:  Undefined array key "admin_name" in /home/prodexth/public_html/nishant/include/nav.php on line 157
+[08-Nov-2023 12:51:55 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'ac_head' in 'where clause' in /home/prodexth/public_html/nishant/report-graph-ac.php:152
+Stack trace:
+#0 /home/prodexth/public_html/nishant/report-graph-ac.php(152): mysqli->query()
+#1 {main}
+  thrown in /home/prodexth/public_html/nishant/report-graph-ac.php on line 152
+[08-Nov-2023 12:52:01 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[08-Nov-2023 12:52:01 UTC] PHP Warning:  Undefined array key "admin_name" in /home/prodexth/public_html/nishant/include/nav.php on line 157
+[08-Nov-2023 12:52:01 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'ac_head' in 'where clause' in /home/prodexth/public_html/nishant/report-graph-ac.php:152
+Stack trace:
+#0 /home/prodexth/public_html/nishant/report-graph-ac.php(152): mysqli->query()
+#1 {main}
+  thrown in /home/prodexth/public_html/nishant/report-graph-ac.php on line 152
+[08-Nov-2023 12:52:06 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[08-Nov-2023 12:52:06 UTC] PHP Warning:  Undefined array key "admin_name" in /home/prodexth/public_html/nishant/include/nav.php on line 157
+[08-Nov-2023 12:52:06 UTC] PHP Warning:  Undefined array key "project_id" in /home/prodexth/public_html/nishant/report-graph-ac.php on line 92
+[08-Nov-2023 12:52:06 UTC] PHP Warning:  Undefined array key "project_id" in /home/prodexth/public_html/nishant/report-graph-ac.php on line 92
+[08-Nov-2023 12:52:06 UTC] PHP Warning:  Undefined array key "project_id" in /home/prodexth/public_html/nishant/report-graph-ac.php on line 92
+[08-Nov-2023 12:52:06 UTC] PHP Warning:  Undefined array key "project_id" in /home/prodexth/public_html/nishant/report-graph-ac.php on line 92
+[08-Nov-2023 12:52:06 UTC] PHP Warning:  Undefined array key "project_id" in /home/prodexth/public_html/nishant/report-graph-ac.php on line 92
+[08-Nov-2023 12:52:06 UTC] PHP Warning:  Undefined array key "project_id" in /home/prodexth/public_html/nishant/report-graph-ac.php on line 92
+[08-Nov-2023 12:52:06 UTC] PHP Warning:  Undefined array key "project_id" in /home/prodexth/public_html/nishant/report-graph-ac.php on line 92
+[08-Nov-2023 12:52:06 UTC] PHP Warning:  Undefined array key "project_id" in /home/prodexth/public_html/nishant/report-graph-ac.php on line 92
+[08-Nov-2023 12:52:06 UTC] PHP Warning:  Undefined array key "project_id" in /home/prodexth/public_html/nishant/report-graph-ac.php on line 92
+[08-Nov-2023 12:52:06 UTC] PHP Warning:  Undefined array key "project_id" in /home/prodexth/public_html/nishant/report-graph-ac.php on line 92
+[08-Nov-2023 12:52:06 UTC] PHP Warning:  Undefined array key "project_id" in /home/prodexth/public_html/nishant/report-graph-ac.php on line 92
+[08-Nov-2023 12:52:06 UTC] PHP Warning:  Undefined array key "project_id" in /home/prodexth/public_html/nishant/report-graph-ac.php on line 92
+[08-Nov-2023 12:52:06 UTC] PHP Warning:  Undefined array key "project_id" in /home/prodexth/public_html/nishant/report-graph-ac.php on line 92
+[08-Nov-2023 12:52:06 UTC] PHP Warning:  Undefined array key "project_id" in /home/prodexth/public_html/nishant/report-graph-ac.php on line 92
+[08-Nov-2023 12:52:06 UTC] PHP Warning:  Undefined array key "project_id" in /home/prodexth/public_html/nishant/report-graph-ac.php on line 92
+[08-Nov-2023 12:52:06 UTC] PHP Warning:  Undefined array key "project_id" in /home/prodexth/public_html/nishant/report-graph-ac.php on line 92
+[08-Nov-2023 12:52:06 UTC] PHP Warning:  Undefined array key "project_id" in /home/prodexth/public_html/nishant/report-graph-ac.php on line 92
+[08-Nov-2023 12:52:06 UTC] PHP Warning:  Undefined array key "project_id" in /home/prodexth/public_html/nishant/report-graph-ac.php on line 92
+[08-Nov-2023 12:52:06 UTC] PHP Warning:  Undefined array key "project_id" in /home/prodexth/public_html/nishant/report-graph-ac.php on line 92
+[08-Nov-2023 12:52:06 UTC] PHP Warning:  Undefined array key "s_date" in /home/prodexth/public_html/nishant/report-graph-ac.php on line 101
+[08-Nov-2023 12:52:06 UTC] PHP Warning:  Undefined array key "end_date" in /home/prodexth/public_html/nishant/report-graph-ac.php on line 107
+[08-Nov-2023 12:53:15 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[08-Nov-2023 12:53:15 UTC] PHP Warning:  Undefined array key "admin_name" in /home/prodexth/public_html/nishant/include/nav.php on line 157
+[08-Nov-2023 12:53:15 UTC] PHP Warning:  Undefined array key "project_id" in /home/prodexth/public_html/nishant/report-graph-ac.php on line 92
+[08-Nov-2023 12:53:15 UTC] PHP Warning:  Undefined array key "project_id" in /home/prodexth/public_html/nishant/report-graph-ac.php on line 92
+[08-Nov-2023 12:53:15 UTC] PHP Warning:  Undefined array key "project_id" in /home/prodexth/public_html/nishant/report-graph-ac.php on line 92
+[08-Nov-2023 12:53:15 UTC] PHP Warning:  Undefined array key "project_id" in /home/prodexth/public_html/nishant/report-graph-ac.php on line 92
+[08-Nov-2023 12:53:15 UTC] PHP Warning:  Undefined array key "project_id" in /home/prodexth/public_html/nishant/report-graph-ac.php on line 92
+[08-Nov-2023 12:53:15 UTC] PHP Warning:  Undefined array key "project_id" in /home/prodexth/public_html/nishant/report-graph-ac.php on line 92
+[08-Nov-2023 12:53:15 UTC] PHP Warning:  Undefined array key "project_id" in /home/prodexth/public_html/nishant/report-graph-ac.php on line 92
+[08-Nov-2023 12:53:15 UTC] PHP Warning:  Undefined array key "project_id" in /home/prodexth/public_html/nishant/report-graph-ac.php on line 92
+[08-Nov-2023 12:53:15 UTC] PHP Warning:  Undefined array key "project_id" in /home/prodexth/public_html/nishant/report-graph-ac.php on line 92
+[08-Nov-2023 12:53:15 UTC] PHP Warning:  Undefined array key "project_id" in /home/prodexth/public_html/nishant/report-graph-ac.php on line 92
+[08-Nov-2023 12:53:15 UTC] PHP Warning:  Undefined array key "project_id" in /home/prodexth/public_html/nishant/report-graph-ac.php on line 92
+[08-Nov-2023 12:53:15 UTC] PHP Warning:  Undefined array key "project_id" in /home/prodexth/public_html/nishant/report-graph-ac.php on line 92
+[08-Nov-2023 12:53:15 UTC] PHP Warning:  Undefined array key "project_id" in /home/prodexth/public_html/nishant/report-graph-ac.php on line 92
+[08-Nov-2023 12:53:15 UTC] PHP Warning:  Undefined array key "project_id" in /home/prodexth/public_html/nishant/report-graph-ac.php on line 92
+[08-Nov-2023 12:53:15 UTC] PHP Warning:  Undefined array key "project_id" in /home/prodexth/public_html/nishant/report-graph-ac.php on line 92
+[08-Nov-2023 12:53:15 UTC] PHP Warning:  Undefined array key "project_id" in /home/prodexth/public_html/nishant/report-graph-ac.php on line 92
+[08-Nov-2023 12:53:15 UTC] PHP Warning:  Undefined array key "project_id" in /home/prodexth/public_html/nishant/report-graph-ac.php on line 92
+[08-Nov-2023 12:53:15 UTC] PHP Warning:  Undefined array key "project_id" in /home/prodexth/public_html/nishant/report-graph-ac.php on line 92
+[08-Nov-2023 12:53:15 UTC] PHP Warning:  Undefined array key "project_id" in /home/prodexth/public_html/nishant/report-graph-ac.php on line 92
+[08-Nov-2023 12:53:15 UTC] PHP Warning:  Undefined array key "s_date" in /home/prodexth/public_html/nishant/report-graph-ac.php on line 101
+[08-Nov-2023 12:53:15 UTC] PHP Warning:  Undefined array key "end_date" in /home/prodexth/public_html/nishant/report-graph-ac.php on line 107
+[08-Nov-2023 13:00:12 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[08-Nov-2023 13:00:12 UTC] PHP Warning:  Undefined array key "admin_name" in /home/prodexth/public_html/nishant/include/nav.php on line 157
+[08-Nov-2023 13:00:15 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[08-Nov-2023 13:00:15 UTC] PHP Warning:  Undefined array key "admin_name" in /home/prodexth/public_html/nishant/include/nav.php on line 157
+[09-Nov-2023 05:00:12 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[09-Nov-2023 05:05:14 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[09-Nov-2023 05:05:14 UTC] PHP Warning:  Undefined array key "admin_name" in /home/prodexth/public_html/nishant/include/nav.php on line 157
+[09-Nov-2023 05:05:14 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[09-Nov-2023 06:18:45 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[09-Nov-2023 06:18:45 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[09-Nov-2023 06:19:03 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[09-Nov-2023 06:19:06 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[09-Nov-2023 06:25:57 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[09-Nov-2023 06:25:57 UTC] PHP Warning:  Undefined array key "admin_name" in /home/prodexth/public_html/nishant/pro-profile.php on line 6
+[09-Nov-2023 06:25:57 UTC] PHP Warning:  Undefined variable $error in /home/prodexth/public_html/nishant/pro-profile.php on line 80
+[09-Nov-2023 06:26:20 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[09-Nov-2023 06:26:26 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[09-Nov-2023 06:26:30 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[09-Nov-2023 06:26:30 UTC] PHP Warning:  Undefined array key "sub" in /home/prodexth/public_html/nishant/deopdown_inventry.php on line 13
+[09-Nov-2023 06:26:30 UTC] PHP Warning:  Undefined array key "prod" in /home/prodexth/public_html/nishant/deopdown_inventry.php on line 20
+[09-Nov-2023 06:26:31 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[09-Nov-2023 06:26:31 UTC] PHP Warning:  Undefined array key "id" in /home/prodexth/public_html/nishant/deopdown_inventry.php on line 5
+[09-Nov-2023 06:26:31 UTC] PHP Warning:  Undefined array key "prod" in /home/prodexth/public_html/nishant/deopdown_inventry.php on line 20
+[09-Nov-2023 06:26:33 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[09-Nov-2023 06:26:33 UTC] PHP Warning:  Undefined array key "id" in /home/prodexth/public_html/nishant/deopdown_inventry.php on line 5
+[09-Nov-2023 06:26:33 UTC] PHP Warning:  Undefined array key "sub" in /home/prodexth/public_html/nishant/deopdown_inventry.php on line 13
+[09-Nov-2023 06:27:04 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[09-Nov-2023 06:27:04 UTC] PHP Warning:  Undefined array key "sub" in /home/prodexth/public_html/nishant/deopdown_inventry.php on line 13
+[09-Nov-2023 06:27:04 UTC] PHP Warning:  Undefined array key "prod" in /home/prodexth/public_html/nishant/deopdown_inventry.php on line 20
+[09-Nov-2023 06:27:05 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[09-Nov-2023 06:27:05 UTC] PHP Warning:  Undefined array key "id" in /home/prodexth/public_html/nishant/deopdown_inventry.php on line 5
+[09-Nov-2023 06:27:05 UTC] PHP Warning:  Undefined array key "prod" in /home/prodexth/public_html/nishant/deopdown_inventry.php on line 20
+[09-Nov-2023 06:27:07 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[09-Nov-2023 06:27:07 UTC] PHP Warning:  Undefined array key "id" in /home/prodexth/public_html/nishant/deopdown_inventry.php on line 5
+[09-Nov-2023 06:27:07 UTC] PHP Warning:  Undefined array key "sub" in /home/prodexth/public_html/nishant/deopdown_inventry.php on line 13
+[09-Nov-2023 06:27:07 UTC] PHP Warning:  Undefined variable $row in /home/prodexth/public_html/nishant/deopdown_inventry.php on line 25
+[09-Nov-2023 06:27:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/prodexth/public_html/nishant/deopdown_inventry.php on line 25
+[09-Nov-2023 06:27:07 UTC] PHP Warning:  Undefined variable $row in /home/prodexth/public_html/nishant/deopdown_inventry.php on line 25
+[09-Nov-2023 06:27:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/prodexth/public_html/nishant/deopdown_inventry.php on line 25
+[09-Nov-2023 06:27:07 UTC] PHP Warning:  Undefined variable $row in /home/prodexth/public_html/nishant/deopdown_inventry.php on line 25
+[09-Nov-2023 06:27:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/prodexth/public_html/nishant/deopdown_inventry.php on line 25
+[09-Nov-2023 06:27:07 UTC] PHP Warning:  Undefined variable $row in /home/prodexth/public_html/nishant/deopdown_inventry.php on line 25
+[09-Nov-2023 06:27:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/prodexth/public_html/nishant/deopdown_inventry.php on line 25
+[09-Nov-2023 07:19:07 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[09-Nov-2023 07:19:07 UTC] PHP Warning:  Undefined array key "attandance" in /home/prodexth/public_html/nishant/payment-report2.php on line 3
+[09-Nov-2023 07:19:07 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'prodexth_nishant.employes' doesn't exist in /home/prodexth/public_html/nishant/payment-report2.php:6
+Stack trace:
+#0 /home/prodexth/public_html/nishant/payment-report2.php(6): mysqli->query()
+#1 {main}
+  thrown in /home/prodexth/public_html/nishant/payment-report2.php on line 6
+[09-Nov-2023 07:19:10 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[09-Nov-2023 07:29:41 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[09-Nov-2023 07:29:48 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined variable $no in /home/prodexth/public_html/nishant/inventory_form.php on line 301
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "sub_type_id" in /home/prodexth/public_html/nishant/inventory_form.php on line 303
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "ht" in /home/prodexth/public_html/nishant/inventory_form.php on line 306
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "cft" in /home/prodexth/public_html/nishant/inventory_form.php on line 307
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "price" in /home/prodexth/public_html/nishant/inventory_form.php on line 310
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "remark" in /home/prodexth/public_html/nishant/inventory_form.php on line 311
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined variable $no in /home/prodexth/public_html/nishant/inventory_form.php on line 317
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "sub_type_id" in /home/prodexth/public_html/nishant/inventory_form.php on line 303
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "ht" in /home/prodexth/public_html/nishant/inventory_form.php on line 306
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "cft" in /home/prodexth/public_html/nishant/inventory_form.php on line 307
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "price" in /home/prodexth/public_html/nishant/inventory_form.php on line 310
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "remark" in /home/prodexth/public_html/nishant/inventory_form.php on line 311
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "sub_type_id" in /home/prodexth/public_html/nishant/inventory_form.php on line 303
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "ht" in /home/prodexth/public_html/nishant/inventory_form.php on line 306
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "cft" in /home/prodexth/public_html/nishant/inventory_form.php on line 307
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "price" in /home/prodexth/public_html/nishant/inventory_form.php on line 310
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "remark" in /home/prodexth/public_html/nishant/inventory_form.php on line 311
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "sub_type_id" in /home/prodexth/public_html/nishant/inventory_form.php on line 303
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "ht" in /home/prodexth/public_html/nishant/inventory_form.php on line 306
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "cft" in /home/prodexth/public_html/nishant/inventory_form.php on line 307
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "price" in /home/prodexth/public_html/nishant/inventory_form.php on line 310
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "remark" in /home/prodexth/public_html/nishant/inventory_form.php on line 311
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "sub_type_id" in /home/prodexth/public_html/nishant/inventory_form.php on line 303
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "ht" in /home/prodexth/public_html/nishant/inventory_form.php on line 306
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "cft" in /home/prodexth/public_html/nishant/inventory_form.php on line 307
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "price" in /home/prodexth/public_html/nishant/inventory_form.php on line 310
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "remark" in /home/prodexth/public_html/nishant/inventory_form.php on line 311
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "sub_type_id" in /home/prodexth/public_html/nishant/inventory_form.php on line 303
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "ht" in /home/prodexth/public_html/nishant/inventory_form.php on line 306
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "cft" in /home/prodexth/public_html/nishant/inventory_form.php on line 307
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "price" in /home/prodexth/public_html/nishant/inventory_form.php on line 310
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "remark" in /home/prodexth/public_html/nishant/inventory_form.php on line 311
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "sub_type_id" in /home/prodexth/public_html/nishant/inventory_form.php on line 303
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "ht" in /home/prodexth/public_html/nishant/inventory_form.php on line 306
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "cft" in /home/prodexth/public_html/nishant/inventory_form.php on line 307
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "price" in /home/prodexth/public_html/nishant/inventory_form.php on line 310
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "remark" in /home/prodexth/public_html/nishant/inventory_form.php on line 311
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "sub_type_id" in /home/prodexth/public_html/nishant/inventory_form.php on line 303
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "ht" in /home/prodexth/public_html/nishant/inventory_form.php on line 306
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "cft" in /home/prodexth/public_html/nishant/inventory_form.php on line 307
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "price" in /home/prodexth/public_html/nishant/inventory_form.php on line 310
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "remark" in /home/prodexth/public_html/nishant/inventory_form.php on line 311
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "sub_type_id" in /home/prodexth/public_html/nishant/inventory_form.php on line 303
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "ht" in /home/prodexth/public_html/nishant/inventory_form.php on line 306
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "cft" in /home/prodexth/public_html/nishant/inventory_form.php on line 307
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "price" in /home/prodexth/public_html/nishant/inventory_form.php on line 310
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "remark" in /home/prodexth/public_html/nishant/inventory_form.php on line 311
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "sub_type_id" in /home/prodexth/public_html/nishant/inventory_form.php on line 303
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "ht" in /home/prodexth/public_html/nishant/inventory_form.php on line 306
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "cft" in /home/prodexth/public_html/nishant/inventory_form.php on line 307
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "price" in /home/prodexth/public_html/nishant/inventory_form.php on line 310
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "remark" in /home/prodexth/public_html/nishant/inventory_form.php on line 311
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "sub_type_id" in /home/prodexth/public_html/nishant/inventory_form.php on line 303
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "ht" in /home/prodexth/public_html/nishant/inventory_form.php on line 306
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "cft" in /home/prodexth/public_html/nishant/inventory_form.php on line 307
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "price" in /home/prodexth/public_html/nishant/inventory_form.php on line 310
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "remark" in /home/prodexth/public_html/nishant/inventory_form.php on line 311
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "sub_type_id" in /home/prodexth/public_html/nishant/inventory_form.php on line 303
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "ht" in /home/prodexth/public_html/nishant/inventory_form.php on line 306
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "cft" in /home/prodexth/public_html/nishant/inventory_form.php on line 307
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "price" in /home/prodexth/public_html/nishant/inventory_form.php on line 310
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "remark" in /home/prodexth/public_html/nishant/inventory_form.php on line 311
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "sub_type_id" in /home/prodexth/public_html/nishant/inventory_form.php on line 303
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "ht" in /home/prodexth/public_html/nishant/inventory_form.php on line 306
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "cft" in /home/prodexth/public_html/nishant/inventory_form.php on line 307
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "price" in /home/prodexth/public_html/nishant/inventory_form.php on line 310
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "remark" in /home/prodexth/public_html/nishant/inventory_form.php on line 311
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "sub_type_id" in /home/prodexth/public_html/nishant/inventory_form.php on line 303
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "ht" in /home/prodexth/public_html/nishant/inventory_form.php on line 306
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "cft" in /home/prodexth/public_html/nishant/inventory_form.php on line 307
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "price" in /home/prodexth/public_html/nishant/inventory_form.php on line 310
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "remark" in /home/prodexth/public_html/nishant/inventory_form.php on line 311
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "sub_type_id" in /home/prodexth/public_html/nishant/inventory_form.php on line 303
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "ht" in /home/prodexth/public_html/nishant/inventory_form.php on line 306
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "cft" in /home/prodexth/public_html/nishant/inventory_form.php on line 307
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "price" in /home/prodexth/public_html/nishant/inventory_form.php on line 310
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "remark" in /home/prodexth/public_html/nishant/inventory_form.php on line 311
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "sub_type_id" in /home/prodexth/public_html/nishant/inventory_form.php on line 303
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "ht" in /home/prodexth/public_html/nishant/inventory_form.php on line 306
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "cft" in /home/prodexth/public_html/nishant/inventory_form.php on line 307
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "price" in /home/prodexth/public_html/nishant/inventory_form.php on line 310
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "remark" in /home/prodexth/public_html/nishant/inventory_form.php on line 311
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "sub_type_id" in /home/prodexth/public_html/nishant/inventory_form.php on line 303
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "ht" in /home/prodexth/public_html/nishant/inventory_form.php on line 306
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "cft" in /home/prodexth/public_html/nishant/inventory_form.php on line 307
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "price" in /home/prodexth/public_html/nishant/inventory_form.php on line 310
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "remark" in /home/prodexth/public_html/nishant/inventory_form.php on line 311
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "sub_type_id" in /home/prodexth/public_html/nishant/inventory_form.php on line 303
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "ht" in /home/prodexth/public_html/nishant/inventory_form.php on line 306
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "cft" in /home/prodexth/public_html/nishant/inventory_form.php on line 307
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "price" in /home/prodexth/public_html/nishant/inventory_form.php on line 310
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "remark" in /home/prodexth/public_html/nishant/inventory_form.php on line 311
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "sub_type_id" in /home/prodexth/public_html/nishant/inventory_form.php on line 303
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "ht" in /home/prodexth/public_html/nishant/inventory_form.php on line 306
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "cft" in /home/prodexth/public_html/nishant/inventory_form.php on line 307
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "price" in /home/prodexth/public_html/nishant/inventory_form.php on line 310
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "remark" in /home/prodexth/public_html/nishant/inventory_form.php on line 311
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "sub_type_id" in /home/prodexth/public_html/nishant/inventory_form.php on line 303
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "ht" in /home/prodexth/public_html/nishant/inventory_form.php on line 306
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "cft" in /home/prodexth/public_html/nishant/inventory_form.php on line 307
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "price" in /home/prodexth/public_html/nishant/inventory_form.php on line 310
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "remark" in /home/prodexth/public_html/nishant/inventory_form.php on line 311
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "sub_type_id" in /home/prodexth/public_html/nishant/inventory_form.php on line 303
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "ht" in /home/prodexth/public_html/nishant/inventory_form.php on line 306
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "cft" in /home/prodexth/public_html/nishant/inventory_form.php on line 307
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "price" in /home/prodexth/public_html/nishant/inventory_form.php on line 310
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "remark" in /home/prodexth/public_html/nishant/inventory_form.php on line 311
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "sub_type_id" in /home/prodexth/public_html/nishant/inventory_form.php on line 303
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "ht" in /home/prodexth/public_html/nishant/inventory_form.php on line 306
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "cft" in /home/prodexth/public_html/nishant/inventory_form.php on line 307
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "price" in /home/prodexth/public_html/nishant/inventory_form.php on line 310
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "remark" in /home/prodexth/public_html/nishant/inventory_form.php on line 311
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "sub_type_id" in /home/prodexth/public_html/nishant/inventory_form.php on line 303
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "ht" in /home/prodexth/public_html/nishant/inventory_form.php on line 306
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "cft" in /home/prodexth/public_html/nishant/inventory_form.php on line 307
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "price" in /home/prodexth/public_html/nishant/inventory_form.php on line 310
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "remark" in /home/prodexth/public_html/nishant/inventory_form.php on line 311
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "sub_type_id" in /home/prodexth/public_html/nishant/inventory_form.php on line 303
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "ht" in /home/prodexth/public_html/nishant/inventory_form.php on line 306
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "cft" in /home/prodexth/public_html/nishant/inventory_form.php on line 307
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "price" in /home/prodexth/public_html/nishant/inventory_form.php on line 310
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "remark" in /home/prodexth/public_html/nishant/inventory_form.php on line 311
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "sub_type_id" in /home/prodexth/public_html/nishant/inventory_form.php on line 303
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "ht" in /home/prodexth/public_html/nishant/inventory_form.php on line 306
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "cft" in /home/prodexth/public_html/nishant/inventory_form.php on line 307
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "price" in /home/prodexth/public_html/nishant/inventory_form.php on line 310
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "remark" in /home/prodexth/public_html/nishant/inventory_form.php on line 311
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "sub_type_id" in /home/prodexth/public_html/nishant/inventory_form.php on line 303
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "ht" in /home/prodexth/public_html/nishant/inventory_form.php on line 306
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "cft" in /home/prodexth/public_html/nishant/inventory_form.php on line 307
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "price" in /home/prodexth/public_html/nishant/inventory_form.php on line 310
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "remark" in /home/prodexth/public_html/nishant/inventory_form.php on line 311
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "sub_type_id" in /home/prodexth/public_html/nishant/inventory_form.php on line 303
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "ht" in /home/prodexth/public_html/nishant/inventory_form.php on line 306
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "cft" in /home/prodexth/public_html/nishant/inventory_form.php on line 307
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "price" in /home/prodexth/public_html/nishant/inventory_form.php on line 310
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "remark" in /home/prodexth/public_html/nishant/inventory_form.php on line 311
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "sub_type_id" in /home/prodexth/public_html/nishant/inventory_form.php on line 303
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "ht" in /home/prodexth/public_html/nishant/inventory_form.php on line 306
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "cft" in /home/prodexth/public_html/nishant/inventory_form.php on line 307
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "price" in /home/prodexth/public_html/nishant/inventory_form.php on line 310
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "remark" in /home/prodexth/public_html/nishant/inventory_form.php on line 311
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "sub_type_id" in /home/prodexth/public_html/nishant/inventory_form.php on line 303
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "ht" in /home/prodexth/public_html/nishant/inventory_form.php on line 306
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "cft" in /home/prodexth/public_html/nishant/inventory_form.php on line 307
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "price" in /home/prodexth/public_html/nishant/inventory_form.php on line 310
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "remark" in /home/prodexth/public_html/nishant/inventory_form.php on line 311
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "sub_type_id" in /home/prodexth/public_html/nishant/inventory_form.php on line 303
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "ht" in /home/prodexth/public_html/nishant/inventory_form.php on line 306
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "cft" in /home/prodexth/public_html/nishant/inventory_form.php on line 307
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "price" in /home/prodexth/public_html/nishant/inventory_form.php on line 310
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "remark" in /home/prodexth/public_html/nishant/inventory_form.php on line 311
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "sub_type_id" in /home/prodexth/public_html/nishant/inventory_form.php on line 303
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "ht" in /home/prodexth/public_html/nishant/inventory_form.php on line 306
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "cft" in /home/prodexth/public_html/nishant/inventory_form.php on line 307
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "price" in /home/prodexth/public_html/nishant/inventory_form.php on line 310
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "remark" in /home/prodexth/public_html/nishant/inventory_form.php on line 311
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "sub_type_id" in /home/prodexth/public_html/nishant/inventory_form.php on line 303
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "ht" in /home/prodexth/public_html/nishant/inventory_form.php on line 306
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "cft" in /home/prodexth/public_html/nishant/inventory_form.php on line 307
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "price" in /home/prodexth/public_html/nishant/inventory_form.php on line 310
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "remark" in /home/prodexth/public_html/nishant/inventory_form.php on line 311
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "sub_type_id" in /home/prodexth/public_html/nishant/inventory_form.php on line 303
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "ht" in /home/prodexth/public_html/nishant/inventory_form.php on line 306
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "cft" in /home/prodexth/public_html/nishant/inventory_form.php on line 307
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "price" in /home/prodexth/public_html/nishant/inventory_form.php on line 310
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "remark" in /home/prodexth/public_html/nishant/inventory_form.php on line 311
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "sub_type_id" in /home/prodexth/public_html/nishant/inventory_form.php on line 303
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "ht" in /home/prodexth/public_html/nishant/inventory_form.php on line 306
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "cft" in /home/prodexth/public_html/nishant/inventory_form.php on line 307
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "price" in /home/prodexth/public_html/nishant/inventory_form.php on line 310
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "remark" in /home/prodexth/public_html/nishant/inventory_form.php on line 311
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "sub_type_id" in /home/prodexth/public_html/nishant/inventory_form.php on line 303
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "ht" in /home/prodexth/public_html/nishant/inventory_form.php on line 306
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "cft" in /home/prodexth/public_html/nishant/inventory_form.php on line 307
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "price" in /home/prodexth/public_html/nishant/inventory_form.php on line 310
+[09-Nov-2023 07:29:53 UTC] PHP Warning:  Undefined array key "remark" in /home/prodexth/public_html/nishant/inventory_form.php on line 311
+[09-Nov-2023 07:29:56 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[09-Nov-2023 07:30:00 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[09-Nov-2023 07:41:28 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[10-Nov-2023 04:35:43 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
+[10-Nov-2023 04:35:43 UTC] PHP Warning:  Undefined array key "admin_name" in /home/prodexth/public_html/nishant/include/nav.php on line 157
+[10-Nov-2023 04:35:44 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/prodexth/public_html/nishant/include/config.php on line 9
