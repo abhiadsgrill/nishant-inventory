@@ -112,26 +112,55 @@ if (isset($_POST['submit'])) {
         $lines = explode("\n", $textFileContent);
 
 
-        /*   echo "<pre>";
+        echo "<pre>";
         print_r($lines);
         echo "</pre>";
-        echo "<br>"; */
+        echo "<br>";
 
         $i=0;
         $flag = 0;
         foreach($lines as $line)
         {
-
+            echo "fiag : ".$flag."<br>";
             if($flag > 1)
             {
+                echo $particulars_firm  = str_replace("\"", "", $particulars_firm);
+                echo $particulars_details = str_replace("\"", "", $particulars_details);
+                echo $voucher_type = str_replace("\"", "", "$voucher_type");
+                echo $voucher_no = str_replace("\"", "", $voucher_no);
+                echo $voucher_no = str_replace(" ", "", $voucher_no);
+
+              echo $query_search = "SELECT * FROM daybook WHERE particulars_firm = '$particulars_firm' AND voucher_no = '$voucher_no' and voucher_type = '$voucher_type' ";
+              $result_search = mysqli_query($db, $query_search);
+              $row333 = mysqli_fetch_all($result_search);
+              echo "<pre>";
+              print_r($row333);
+              echo "</pre>";
+              if($row_search = mysqli_fetch_array($result_search))
+              {
+                echo "entry already present <br> ";
+                echo "<script>alert('entry already present');</script>";
+                echo "<pre>";
+                var_dump($row_search);
+                echo "</pre>";
+              }
+              else
+              {
+                echo $particulars_firm  = str_replace("\"", "", $particulars_firm);
+                echo $particulars_details = str_replace("\"", "", $particulars_details);
+                echo $voucher_type = str_replace("\"", "", "$voucher_type");
+                echo $voucher_no = str_replace("\"", "", $voucher_no);
+                
+                $query = "INSERT INTO daybook (date, particulars_firm, particulars_details, voucher_type, voucher_no, debit_amount, credit_amount) VALUES('$date','$particulars_firm','$particulars_details','$voucher_type','$voucher_no','$debit_amount','$credit_amount')";
+                $result = mysqli_query($db, $query) or die(mysqli_error($db));
+              
+                $flag -= 1;
+              }
               //$particulars_firm = str_replace(`"`, "",$particulars_firm);
               //$particulars_details = str_replace(`"`, "",$particulars_details);
               //$voucher_type = str_replace(`"`, "",$voucher_type);
               //$voucher_no = str_replace(`"`, "",$voucher_no);
-              $query = "INSERT INTO daybook (date, particulars_firm, particulars_details, voucher_type, voucher_no, debit_amount, credit_amount) VALUES('$date','$particulars_firm','$particulars_details','$voucher_type','$voucher_no','$debit_amount','$credit_amount')";
-              $result = mysqli_query($db, $query) or die(mysqli_error($db));
-             
-              $flag -= 1;
+              
             } 
 
             //echo chop($line) ."<br>";
